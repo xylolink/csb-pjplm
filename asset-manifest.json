@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://xylolink.github.io/csb-pjplm/static/js/main.268fc2ae.chunk.js",
+    "main.js.map": "https://xylolink.github.io/csb-pjplm/static/js/main.268fc2ae.chunk.js.map",
+    "runtime-main.js": "https://xylolink.github.io/csb-pjplm/static/js/runtime-main.d20e077c.js",
+    "runtime-main.js.map": "https://xylolink.github.io/csb-pjplm/static/js/runtime-main.d20e077c.js.map",
+    "static/js/2.06936074.chunk.js": "https://xylolink.github.io/csb-pjplm/static/js/2.06936074.chunk.js",
+    "static/js/2.06936074.chunk.js.map": "https://xylolink.github.io/csb-pjplm/static/js/2.06936074.chunk.js.map",
+    "index.html": "https://xylolink.github.io/csb-pjplm/index.html",
+    "static/js/2.06936074.chunk.js.LICENSE.txt": "https://xylolink.github.io/csb-pjplm/static/js/2.06936074.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d20e077c.js",
+    "static/js/2.06936074.chunk.js",
+    "static/js/main.268fc2ae.chunk.js"
+  ]
+}
